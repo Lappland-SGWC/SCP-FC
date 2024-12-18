@@ -1,6 +1,6 @@
 title: "SCP:FC Beta Wiki"
 author: "Nalu"
-avatar: "https://leshy-sgwc.github.io/SCP-FC/assets/images/misc/BETA_WIKI.png"
+avatar: "https://Lappland-sgwc.github.io/SCP-FC/assets/images/misc/BETA_WIKI.png"
 round-avatar: true
 title-on-all-pages: true
 icon: BETA_WIKI.png
@@ -12,6 +12,6 @@ show_downloads: False
 google_analytics: G-1344DZ4TJK
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme 
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-remote-theme
