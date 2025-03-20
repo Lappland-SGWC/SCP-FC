@@ -7,12 +7,12 @@
 </head>
 <p align=center>
     <a href="./web/tree">
-        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;"/></a>
+        <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" alt="All Entries" style="cursor: pointer;"/></a>
 </p>
 <body>
     <div>
         <p align="center">
-            <img src="./BETA_WIKI.png" onclick="showText()" style="cursor: help;"/>
+            <img src="./BETA_WIKI.png" onclick="showText()" alt="" style="cursor: help;"/>
             <div id="text" style="display: none;">Xk0GFUYCGx4rXEsNHU9mcW5yXBNQQQBEABdcV0khcmJZISEWE1NbXQpBUFFDSF1dBhYbRUJcVR4dV15GXAY=</div>
         </p>
         <script>
@@ -56,7 +56,7 @@
             Important Articles
         </h1>
         <a href="./web/tree">
-            <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;"/>
+            <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" alt="All Entries" style="cursor: pointer;"/>
         </a>
         <table>
             <thead>
@@ -75,7 +75,7 @@
                         <a href="./web/humans/foundation/janitor"  style="color: white">Janitor</a>
                     </td>
                     <td>
-                        <img src="./assets/images/characters/cleaner.jpg" title="Janitor" width="150"/>
+                        <img src="./assets/images/characters/cleaner.jpg" title="Janitor" alt="Janitor" width="150"/>
                     </td>
                 </tr>
                 <tr>
@@ -83,15 +83,15 @@
                         <a href="./web/tree#characters" style="color: white">Characters</a>
                     </td>
                     <td>
-                        <img src="./assets/images/misc/Characters.webp" title="Characters" width="150"/>
+                        <img src="./assets/images/misc/Characters.webp" title="Characters" alt="Characters" width="150"/>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <a href="./web/tree#achivements" style="color: white">Achivements</a>
+                        <a href="./web/tree#achievements" style="color: white">Achievements</a>
                     </td>
                     <td>
-                        <img src="./assets/images/achievements/achievements.png" title="Achivements" width="150"/>
+                        <img src="./assets/images/achievements/achievements.png" title="Achievements" alt="Achievements" width="150"/>
                     </td>
                 </tr>
             </tbody>
@@ -103,13 +103,13 @@
         </h2>
         <p>
             <a href="https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki">
-                <img src="https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff" title="Release Wiki" style="cursor: pointer;"/>
+                <img src="https://img.shields.io/badge/Released_Wiki-000000?style=for-the-badge&labelColor=ffffff&color=ffffff" title="Release Wiki" style="cursor: pointer;" alt="" />
             </a>
         </p>
     </div>
     <p align=center>
         <a href="./web/tree">
-            <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;"/>
+            <img src="https://img.shields.io/badge/GO_TO-All_Entries-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="All Entries" style="cursor: pointer;" alt="" />
         </a>
     </p>
 </body>
