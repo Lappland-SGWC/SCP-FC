@@ -25,7 +25,7 @@ SCP-9042-IC displays a calm and friendly demeanor, often engaging in conversatio
 Interviewed: SCP-9042-IC\
 Interviewer: Dr. ███████
 
-<Begin Log>
+`<Begin Log>`
 
 Dr. ███████: Good morning, SCP-9042-IC. How are you feeling today?
 
@@ -43,7 +43,7 @@ Dr. ███████: Interesting. Do you have any knowledge of your origin
 
 SCP-9042-IC: Well, Doc, that's the mystery of it all. I can't rightly recall where I came from or how I got here. It's like my past is shrouded in a haze. But I reckon it don't matter much. I'm here now, and I'm happy to lend a hand where I can.
 
-<End Log>
+`<End Log>`
 
 <strong><u>Closing Statement:</u></strong>\
 SCP-9042-IC continues to be cooperative and friendly, providing valuable insights into its abilities and experiences. Further research is ongoing to understand the nature and origin of SCP-9042-IC's anomalous properties.
