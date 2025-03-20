@@ -1,8 +1,8 @@
-__**Item #:**__ SCP-9473-IC
+<strong><u>Item #:</strong></u> SCP-9473-IC
 
-__**Object Class:**__ Apollyon
+<strong><u>Object Class:</strong></u> Apollyon
 
-__**Special Containment Procedures:**__\
+<strong><u>Special Containment Procedures:</u></strong>\
 SCP-9473-IC is to be held in a standard humanoid containment cell measuring 15m x 3m x 13m. The containment chamber of SCP-9473-IC must be guarded by a minimum of two personnel, trained by members of Lambda-7 in handling the entity, equipped with specialized eye protection and non-lethal weaponary at all times. Subject is to be provided with three meals per day. Access to SCP-9473-IC's chamber is restricted to Class-D personnel only. Any Class-D personnel who have made direct eye contact with SCP-9473-IC are to be terminated immediately.
 
 In the event of a containment breach involving SCP-9473-IC, Mobile Task Force Lambda-7 aka "Stable Minds" is to be dispatched to deal and Recontain the Anomaly. All site personell are advised to follow standard Breach protocols and avoid making eye contact with SCP-9473-IC.
@@ -11,21 +11,21 @@ All instances of SCP-9473-IC-1 are to be restrained and isolated for a period of
 
 Testing may only be conducted by two personnel with a security clearance level 3 or above with the approval of at least one personnel of security clearance level 4. Any Class-D personnel who become 9473-IC-1 or -2 instances are to be terminated after testing.
 
-__**Note:**__\
+<strong><u>Note:</strong></u>\
 Following Incident 9473-IC-1, all testing involving SCP-9473-IC is strictly prohibited, and Subject has since been reclassified as Keter.
 
-__**Description:**__\
+<strong><u>Description:</strong></u>\
 SCP-9473-IC is a Caucasian human male with a height of approximately 1.9 meters. It was initially located in a wooden shack on a mountain near █████, Canada. SCP-9473-IC refers to itself as "Jacob █████". The Subject will usually only display hostility when provoked and often attempts to engage in conversation with the D-classes and Researchers. SCP-9473-IC possesses the ability to manipulate any living organism after establishing direct eye contact into following any commands given by the Subject, acting similar to hypnosis with the main difference beeing that the effect cannot be forcefully removed by anyone other than SCP-9473-IC, but wears off after Four to Five weeks. Individuals who have made direct eye contact with SCP-9473-IC are designated as SCP-9473-IC-1 instances, while activly controlled individuals are designated as SCP-9473-IC-2 instances.
 
 Studies indicate that SCP-9473-IC is able to "delay" its control over individuals for up to four weeks. It has been observed that SCP-9473-IC cannot control the same target twice. Further testing is required to determine if SCP-9473-IC can simultaneously control multiple targets.
 
-__**Note:**__\
+<strong><u>Note:</strong></u>\
 SCP-9473-IC has demonstrated the ability to exert simultaneous control over multiple individuals. Additionaly was observed that Scp-9473-IC-1/-2 instances can, despite beeing completly seperated, still recive orders from Scp-9473-IC.
 
-__**Incident 9473-IC-1:**__\
+<strong><u>Incident 9473-IC-1:</strong></u>\
 SCP-9473-IC managed to breach containment on the ██.██.████, during an experiment involving two Class-D personnel who had been exposed to its mind-controlling abilities. The purpose of the experiment was to assess the extent of SCP-9473-IC's control over individuals and test its ability to manipulate multiple subjects simultaneously.
 
-__**Approximat time of breach:**__ 09:15 am.
+Approximat time of breach: 09:15 am.
 
 During testing bith the electronic and magnetic chamber locks failed due to, as of yet, unknown reasons leading to Both of the Class-D personell, now Scp-9473-IC-2 instances, and Scp-9473-IC to escape out of the chamber and taking out both guards who where unaware of the chamber doors failure to lock. Both guards protective visors where forcefully removed by the -2 instances resulting in both guards falling under the influence of the anomaly.
 
@@ -42,7 +42,7 @@ The joint efforts of MTF Delta-4 and MTF Lambda-7 proved effective in bringing t
 
 The breach led to the loss of numerous Foundation personnel, resulting in a total of 53 casualties, including security guards, researchers, and MTF units.
 
-__**Notes:**__\
+<strong><u>Notes:</strong></u>\
 Following the incident, the ongoing containment of SCP-9473-IC was put into the direct Supervision of MTF Lambda-7 "Stable Minds", due to thier proven effectivenes.\
 A comprehensive reevaluation of containment protocols and testing procedures regarding SCP-9473-IC is currently underway. The breach highlighted the significant risks associated with SCP-9473-IC's mind-controlling abilities and the potential for widespread personnel compromise.
 

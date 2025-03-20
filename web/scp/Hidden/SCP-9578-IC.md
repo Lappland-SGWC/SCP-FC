@@ -1,10 +1,10 @@
-__**Item #:**__ SCP-9578-IC
+<strong><u>Item #:</strong></u> SCP-9578-IC
 
-__**Object class:**__ Apollyon
+<strong><u>Object class:</u></strong> Apollyon
 
-__**Secondary Class:**__ Thaumiel
+<strong><u>Secondary Class:</strong></u> Thaumiel
 
-__**Special Containment Procedures:**__\
+<strong><u>Special Containment Procedures:</strong></u>\
 SCP-9578-IC-1-A, SCP-9578-IC-2-A, SCP-9578-IC-2-B and SCP-9578-IC-3 have to be held in the designated Containment Chamber.
 
 - SCP-9578-IC-1-A has to be mounted into a door frame.
@@ -15,9 +15,9 @@ SCP-9578-IC-1-A, SCP-9578-IC-2-A, SCP-9578-IC-2-B and SCP-9578-IC-3 have to be h
 - SCP-9578-IC-3 has to be held in the same Containment Chamber facing away from SCP-9578-IC-1
 
 The Containment Chamber requires Containment Clearance 3, Amory Access 3 and Nuke Access  to enter.\
-Experiments on SCP-9578-IC requires the permission of the 05 Council.\
+Experiments on SCP-9578-IC requires the permission of the 05 Council.
 
-__**Description:**__\
+<strong><u>Description:</u></strong>\
 SCP-9578-IC-1-A is an oak door that was found in the city of █████████ in a trash behind the local theatre.\
 There is a combination lock on the door that opens the door.\
 The password is changed every day at <t:1708472201:T> using SCP-9578-IC-2-A. On that event if the door is closed, SCP-9578-IC-2-A begins to levitate and flies up to the lock, after which it changes the password.\
@@ -33,31 +33,31 @@ When interacting with these objects, you can influence the person's mind.\
 SCP-9578-IC-2-A is a small device for changing passwords of SCP-9578-IC-1-A.\
 SCP-9578-IC-3 is a blue leather chair.\
 The inner world of the person sitting on it begins to broadcast into SCP-9578-IC-1-A.\
-A person will not be able to get up from a chair if there is a person inside SCP-9578-IC-1-A, but if you try to remove him from the chair by force, then the person located inside of SCP-9578-IC-1-A will be pushed out of there with an insane amount of speed, that have a 0% chance to survive.\
+A person will not be able to get up from a chair if there is a person inside SCP-9578-IC-1-A, but if you try to remove him from the chair by force, then the person located inside of SCP-9578-IC-1-A will be pushed out of there with an insane amount of speed, that have a 0% chance to survive.
 
-__**Note:**__\
+<strong><u>Note:</strong></u>\
 After Test 3, SCP-9578-IC-2-A creates SCP-9578-IC-1-B with SCP-9578-IC-1-C on it.\
 SCP-9578-IC-1-B is a yellow post-it with SCP-9578-IC-1-C on it, while SCP-9578-IC-1-C is the password for the door.
 
-__**Test report 1:**__\
+<strong><u>Test report 1:</strong></u>\
 On SCP-9578-IC-3: D-93456\
 Enters SCP-9578-IC-██: D-76598\
 The room is upholstered with green wallpaper, there are many paintings on the wall, and a beautiful chandelier.\
 There are many cabinets with different items from toothbrushes to figurines of historical figures.\
 D-76598 walked around the room a little after which D-93456 were removed from SCP-9578-IC-3.\
 After that, D-76598 were thrown out of SCP-9578-IC-██ and SCP-9578-IC-1-A.\
-D-76598 did not survive the colision with the wall and the whole room was covered in blood.\
+D-76598 did not survive the colision with the wall and the whole room was covered in blood.
 
-__**Test report 2:**__\
+<strong><u>Test report 2:</strong></u>\
 On SCP-9578-IC-3: Dr. █████\
 Enters SCP-9578-IC-██: D-45876\
 The test were assigned due to the fact that Dr. █████ was very afraid of mannequins and this prevented him from working.\
 Opening the door to the classroom, D-45876 saw a bunch of wooden mannequins. The light in the room was flickering.\
 Dr. █████ saw the mannequins and lost consciousness. Immediately after this one of the mannequins were thrown outside SCP-9578-IC-██.\
 Afterwards, a wood shredder was brought in and all the dummies were terminated.\
-After that, Dr. █████ was no longer afraid of mannequins.\
+After that, Dr. █████ was no longer afraid of mannequins.
 
-__**Test report 3:**__\
+<strong><u>Test report 3:</strong></u>\
 On SCP-9578-IC-3: Dr. ███\
 Enters SCP-9578-IC-██: ██████\
 The goal of the experiment is to find out, what will happen if you take the object out of the room.\

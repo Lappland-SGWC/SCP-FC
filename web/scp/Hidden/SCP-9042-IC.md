@@ -1,11 +1,11 @@
-__**Item #:**__ SCP-9042-IC
+<strong><u>Item #:</strong></u> SCP-9042-IC
 
-__**Object Class:**__ Safe
+<strong><u>Object Class:</strong></u> Safe
 
-__**Special Containment Procedures:**__\
+<strong><u>Special Containment Procedures:</u></strong>\
 SCP-9042-IC is to be contained within a standard humanoid containment cell at Site-██. The cell must be furnished with basic funiture, including a bed, table, chair, and a small collection of western-themed decorations. SCP-9042-IC is allowed limited recreational time, during which it may engage in activities such as reading, writing, or playing a musical instrument. All interactions with SCP-9042-IC must be monitored and recorded for analysis. Multiple Scranton Reality Anchor needs to be placed around SCP-9042-IC's containment chamber and active at all times.
 
-__**Description:**__\
+<strong><u>Description:</strong></u>\
 SCP-9042-IC is a humanoid entity appearing to be a middle-aged cowboy dressed in traditional western attire. It stands at approximately 1.8 meters tall and weighs around 80 kilograms. SCP-9042-IC's physical appearance is consistent with that of a typical cowboy, including a wide-brimmed hat, leather vest, denim pants, and cowboy boots.
 
 SCP-9042-IC possesses several anomalous abilities, including:
@@ -20,7 +20,7 @@ SCP-9042-IC possesses several anomalous abilities, including:
 
 SCP-9042-IC displays a calm and friendly demeanor, often engaging in conversation with Foundation personnel. It is cooperative and willingly shares information about its abilities and experiences as a cowboy. SCP-9042-IC claims to have originated from an unknown time and place, describing itself as a wanderer who travels through different dimensions and timelines.
 
-__**Addendum:**__ 9042-IC Interview Log 1
+<strong><u>Addendum: 9042-IC Interview Log </strong></u>1
 
 Interviewed: SCP-9042-IC\
 Interviewer: Dr. ███████
@@ -45,5 +45,5 @@ SCP-9042-IC: Well, Doc, that's the mystery of it all. I can't rightly recall whe
 
 <End Log>
 
-Closing Statement:\
+<strong><u>Closing Statement:</strong></u>\
 SCP-9042-IC continues to be cooperative and friendly, providing valuable insights into its abilities and experiences. Further research is ongoing to understand the nature and origin of SCP-9042-IC's anomalous properties.
