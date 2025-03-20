@@ -1,10 +1,10 @@
-<strong><u>Item #:</strong></u> SCP-9578-IC
+<strong><u>Item #:</u></strong> SCP-9578-IC
 
 <strong><u>Object class:</u></strong> Apollyon
 
-<strong><u>Secondary Class:</strong></u> Thaumiel
+<strong><u>Secondary Class:</u></strong> Thaumiel
 
-<strong><u>Special Containment Procedures:</strong></u>\
+<strong><u>Special Containment Procedures:</u></strong>\
 SCP-9578-IC-1-A, SCP-9578-IC-2-A, SCP-9578-IC-2-B and SCP-9578-IC-3 have to be held in the designated Containment Chamber.
 
 - SCP-9578-IC-1-A has to be mounted into a door frame.
@@ -35,11 +35,11 @@ SCP-9578-IC-3 is a blue leather chair.\
 The inner world of the person sitting on it begins to broadcast into SCP-9578-IC-1-A.\
 A person will not be able to get up from a chair if there is a person inside SCP-9578-IC-1-A, but if you try to remove him from the chair by force, then the person located inside of SCP-9578-IC-1-A will be pushed out of there with an insane amount of speed, that have a 0% chance to survive.
 
-<strong><u>Note:</strong></u>\
+<strong><u>Note:</u></strong>\
 After Test 3, SCP-9578-IC-2-A creates SCP-9578-IC-1-B with SCP-9578-IC-1-C on it.\
 SCP-9578-IC-1-B is a yellow post-it with SCP-9578-IC-1-C on it, while SCP-9578-IC-1-C is the password for the door.
 
-<strong><u>Test report 1:</strong></u>\
+<strong><u>Test report 1:</u></strong>\
 On SCP-9578-IC-3: D-93456\
 Enters SCP-9578-IC-██: D-76598\
 The room is upholstered with green wallpaper, there are many paintings on the wall, and a beautiful chandelier.\
@@ -48,7 +48,7 @@ D-76598 walked around the room a little after which D-93456 were removed from SC
 After that, D-76598 were thrown out of SCP-9578-IC-██ and SCP-9578-IC-1-A.\
 D-76598 did not survive the colision with the wall and the whole room was covered in blood.
 
-<strong><u>Test report 2:</strong></u>\
+<strong><u>Test report 2:</u></strong>\
 On SCP-9578-IC-3: Dr. █████\
 Enters SCP-9578-IC-██: D-45876\
 The test were assigned due to the fact that Dr. █████ was very afraid of mannequins and this prevented him from working.\
@@ -57,7 +57,7 @@ Dr. █████ saw the mannequins and lost consciousness. Immediately after
 Afterwards, a wood shredder was brought in and all the dummies were terminated.\
 After that, Dr. █████ was no longer afraid of mannequins.
 
-<strong><u>Test report 3:</strong></u>\
+<strong><u>Test report 3:</u></strong>\
 On SCP-9578-IC-3: Dr. ███\
 Enters SCP-9578-IC-██: ██████\
 The goal of the experiment is to find out, what will happen if you take the object out of the room.\
