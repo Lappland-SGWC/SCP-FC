@@ -1,9 +1,0 @@
-# HYPERLINK INV LIST
-
-[DOCUMENT SCP-9473-IC "Jacob █████"](./SCP-9473-IC)
-
-[DOCUMENT SCP-9042-IC "The Lone Cowboy"](./SCP-9042-IC)
-
-[DOCUMENT SCP-9234-IC "Night Night"](./SCP-9234-IC)
-
-[DOCUMENT SCP-9578-IC "Door to the inside"](./SCP-9578-IC)
