@@ -1,13 +1,13 @@
 title: "SCP:FC Beta Wiki"
 author: "Nalu"
-avatar: "https://Lappland-sgwc.github.io/SCP-IC/assets/images/misc/BETA_WIKI.png"
+avatar: "https://Lappland-sgwc.github.io/SCP-FC/assets/images/misc/BETA_WIKI.png"
 round-avatar: true
 title-on-all-pages: true
 icon: BETA_WIKI.png
 favicon: "BETA_WIKI.png"
 post_search: true
 edit_page_button: true
-description: "Official fan wiki of Intelligent Cat"
+description: "Official beta wiki of SCP: Foundation Cronicles"
 show_downloads: False
 google_analytics: G-1344DZ4TJK
 remote_theme: pages-themes/hacker@v0.2.0
