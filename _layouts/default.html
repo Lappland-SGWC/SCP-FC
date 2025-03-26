@@ -1,42 +1,274 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
-
-<head>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <link rel="icon" href="./IC.png" type="image/png">
-    <meta name="description" content="The official wiki of our Intelligent Cat server fan SCP's.">
-    <title id="page-title">SCP:IC WIKI</title>
+    <link rel="icon" href="https://Lappland-sgwc.github.io/SCP-FC/assets/images/misc/BETA_WIKI.png" type="image/png">
+    <meta name="description" content="The official beta wiki of SCP:FC.">
+    <title id="page-title">SCP:FC BETA WIKI</title>
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener('DOMContentLoaded', function() {
             const titleElement = document.getElementById('page-title');
             const path = window.location.pathname;
             const pageName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '');
-
+            
 
             let title;
-            switch (pageName) {
+            switch(pageName) {
                 case 'index':
-                    title = 'Main Page | SCP:IC WIKI';
+                    title = 'Main Page | SCP:FC BW';
                     break;
                 case '':
-                    title = 'Main Page | SCP:IC WIKI';
+                    title = 'Main Page | SCP:FC BW';
                     break;
                 case 'tree':
-                    title = 'All Entries | SCP:IC WIKI';
+                    title = 'All Entries | SCP:FC BW';
+                    break;
+                case 'anb':
+                    title = 'A NEW BEGINNING';
+                    break;
+                case 'c':
+                    title = 'CLEANER';
+                    break;
+                case 'coc':
+                    title = 'CALL OF CTHULHU';
+                    break;
+                case 'dod':
+                    title = 'DESCENDANT OF DARWIN';
+                    break;
+                case 'ec':
+                    title = 'EDEN CLOCK';
+                    break;
+                case 'lostsoul':
+                    title = 'LOST SOUL';
+                    break;
+                case 'p':
+                    title = 'PLEONEXIA';
+                    break;
+                case 'rea':
+                    title = 'REAL ESTAGE AGENT';
+                    break;
+                case 'tdk':
+                    title = 'THEY DONT KNOW';
+                    break;
+                case 'u25':
+                    title = 'UTOPIA 25';
+                    break;
+                case 'wwyd':
+                    title = 'WHY WONT YOU DIE?';
+                    break;
+                case 'cuthands':
+                    title = 'CUT HANDS';
+                    break;
+                case '0511':
+                    title = 'SCP-05-11';
+                    break;
+                case 'assistant':
+                    title = 'ASSISTANT';
+                    break;
+                case 'fg':
+                    title = 'SECURITY GUARD';
+                    break;
+                case 'gensecurity':
+                    title = 'HEAD OF SECURITY';
+                    break;
+                case 'homd':
+                    title = 'HEAD OF MEDICAL DEP.';
+                    break;
+                case 'hosd':
+                    title = 'HEAD OF SCIENTIFIC DEP.';
+                    break;
+                case 'janitor':
+                    title = 'JANITOR';
+                    break;
+                case 'scientist':
+                    title = 'SCIENTIST';
+                    break;
+                case 'scp-researcher':
+                    title = 'SCP RESEARCHER';
+                    break;
+                case 'uborschick':
+                    title = '????????????';
+                    break;
+                case 'fbi':
+                    title = 'FBI AGENT';
+                    break;
+                case 'goc':
+                    title = 'GOC SOLDIER';
+                    break;
+                case 'decr':
+                    title = 'DECRYP';
+                    break;
+                case 'amnesiac':
+                    title = 'AMNESIAC';
+                    break;
+                case '001-01':
+                    title = 'ACCESS DENIED';
+                    break;
+                case '035':
+                    title = 'SCP-035';
+                    break;
+                case '049':
+                    title = 'SCP-049';
+                    break;
+                case '073':
+                    title = 'SCP-073';
+                    break;
+                case '079':
+                    title = 'SCP-079';
+                    break;
+                case '082':
+                    title = 'SCP-082';
+                    break;
+                case '096':
+                    title = 'SCP-096';
+                    break;
+                case '123':
+                    title = 'SCP-123';
+                    break;
+                case '148':
+                    title = 'SCP-148';
+                    break;
+                case '160':
+                    title = 'SCP-160';
+                    break;
+                case '173':
+                    title = 'SCP-173';
+                    break;
+                case '184':
+                    title = 'SCP-184';
+                    break;
+                case '244':
+                    title = 'SCP-244';
+                    break;
+                case '262':
+                    title = 'SCP-262';
+                    break;
+                case '334':
+                    title = 'SCP-334';
+                    break;
+                case '372':
+                    title = 'SCP-372';
+                    break;
+                case '436':
+                    title = 'SCP-436';
+                    break;
+                case '523':
+                    title = 'SCP-523';
+                    break;
+                case 's21d':W
+                    title = 'DIRECTOR OF SITE-21';
+                    break;
+                case '874':
+                    title = 'SCP-874';
+                    break;
+                case '935':
+                    title = 'SCP-935';
+                    break;
+                case '058':
+                    title = 'SCP-058';
+                    break;
+                case '076':
+                    title = 'SCP-076';
+                    break;
+                case '106':
+                    title = 'SCP-106';
+                    break;
+                case '169':
+                    title = 'SCP-169';
+                    break;
+                case '204':
+                    title = 'SCP-204';
+                    break;
+                case '280':
+                    title = 'SCP-280';
+                    break;
+                case '682':
+                    title = 'SCP-682';
+                    break;
+                case '111':
+                    title = 'SCP-111';
+                    break;
+                case '141':
+                    title = 'SCP-141';
+                    break;
+                case '155':
+                    title = 'SCP-155';
+                    break;
+                case '207':
+                    title = 'SCP-207';
+                    break;
+                case '215':
+                    title = 'SCP-215';
+                    break;
+                case '268':
+                    title = 'SCP-268';
+                    break;
+                case '300':
+                    title = 'SCP-300';
+                    break;
+                case '308':
+                    title = 'SCP-308';
+                    break;
+                case '318':
+                    title = 'SCP-318';
+                    break;
+                case '330':
+                    title = 'SCP-330';
+                    break;
+                case '343':
+                    title = 'SCP-343';
+                    break;
+                case '391':
+                    title = 'SCP-391';
+                    break;
+                case '399':
+                    title = 'SCP-399';
+                    break;
+                case '427':
+                    title = 'SCP-427';
+                    break;
+                case '429j':
+                    title = 'SCP-429j';
+                    break;
+                case '500':
+                    title = 'SCP-500';
+                    break;
+                case '696':
+                    title = 'SCP-696';
+                    break;
+                case '714':
+                    title = 'SCP-714';
+                    break;
+                case '769':
+                    title = 'SCP-769';
+                    break;
+                case '732':
+                    title = 'SCP-732';
+                    break;
+                case '912':
+                    title = 'SCP-912';
+                    break;
+                case '914':
+                    title = 'SCP-914';
+                    break;
+                case '999':
+                    title = 'SCP-999';
                     break;
                 case '1025':
                     title = 'SCP-1025';
                     break;
                 case 'test':
-                    title = 'DEBUG | SCP:IC WIKI';
+                    title = 'DEBUG | SCP:FC BW';
+                    break;
+                case 'place':
+                    title = 'SCP/PLACE';
                     break;
                 default:
-                    title = 'Uhhh | SCP:IC BETA WIKI';
-                    break;
+                    title = 'Uhhh | SCP:FC BETA WIKI';
             }
 
             titleElement.textContent = title;
@@ -75,35 +307,98 @@
         }
     </style>
     </style>
-</head>
-
+  </head>
+  
 {% seo %}
 
-</head>
-<header align="center">
-    <div class="container">
+  </head>
+  <header align="center">
+      <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
-            {% if site.show_downloads %}
+          {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-            {% endif %}
+          {% endif %}
         </section>
-    </div>
-</header>
-<main>
-    <div class="container">
+      </div>
+    </header>
+    <main>
+            <aside>
+                <h2>Pages</h2>
+                <li><a href="/SCP-FC">HOME</a></li>
+                <li><a href="/SCP-FC/web/tree">TREE</a></li>
+                <Details>
+                    <summary>SCP's</summary>
+                        <ul>
+                            <details>
+                                <summary style="color: green;">SAFE</summary>
+                                <li><a href="/SCP-FC/web/scp/safe/111" style="color:green ;">SCP-111</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/141" style="color:green ;">SCP-141</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/155" style="color:green ;">SCP-155</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/207" style="color:green ;">SCP-207</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/215" style="color:green ;">SCP-215</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/268" style="color:green ;">SCP-268</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/300" style="color:green ;">SCP-300</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/308" style="color:green ;">SCP-308</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/318" style="color:green ;">SCP-318</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/330" style="color:green ;">SCP-330</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/343" style="color:green ;">SCP-343</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/391" style="color:green ;">SCP-391</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/399" style="color:green ;">SCP-399</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/427" style="color:green ;">SCP-427</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/429-J" style="color:green ;">SCP-429-J</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/500" style="color:green ;">SCP-500</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/696" style="color:green ;">SCP-696</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/714" style="color:green ;">SCP-714</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/769" style="color:green ;">SCP-769</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/832" style="color:green ;">SCP-832</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/912" style="color:green ;">SCP-912</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/914" style="color:green ;">SCP-914</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/999" style="color:green ;">SCP-999</a></li>
+                                <li><a href="/SCP-FC/web/scp/safe/1025" style="color:green ;">SCP-1025</a></li>
+                            </details>
+                            <details>
+                                <summary style="color: yellow;">EUCLID</summary>
+                            </details>
+                            <details>
+                                <summary style="color: red;">KETER</summary>
+                            </details>
+                            <details>
+                                <summary style="color: purple;">APOLLYON</summary>
+                            </details>
+                        </ul>
+                </Details>
+                <details>
+                    <summary>CHARACTERS</summary>
+                </details>
+                <details>
+                    <summary>ITEMS</summary>
+                </details>
+                <details>
+                    <summary>EVENTS</summary>
+                </details>
+                <details>
+                    <summary>DEATHS</summary>
+                </details>
+                <details>
+                    <summary>ACHIVEMENTS</summary>
+                </details>
+                <details>
+                    <summary>ENDINGS</summary>
+                </details>
+                <br/>
+                <p>Come talk to us on our discord server:</p>
+                <iframe src="https://ptb.discord.com/widget?id=1166418158085734441&theme=dark" align="center" width="100%" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+            </aside>
+        <div class="container">
         <section id="main_content">
             {{ content }}
         </section>
-    </div>
-</main>
-<footer>
-    <p>&copy; 2025 Intelligent Cat</p>
-</footer>
-
+        </div>
+    </main>
 </html>

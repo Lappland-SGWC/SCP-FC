@@ -1,6 +1,9 @@
-# SCP-IC
+# SCP-FC
 
-Articles from our comunity on [Intelligent Cat](https://discord.gg/9Nu2KNWSwn).
+The Official GitHub Repo of the game SCP: Foundation Chronicles. Mainly used as Beta Wiki.
 
-Fan article wiki:
-[![WIKI](https://img.shields.io/badge/FAN_ARTICLE_WIKI-ffffff?style=for-the-badge)](https://Lappland-sgwc.github.io/SCP-IC/)
+Official Release wiki:
+[![RELEASE WIKI](https://img.shields.io/badge/RELEASE_WIKI-ffffff?style=for-the-badge)](https://scp-fc.fandom.com/wiki/SCP:_Foundation_Chronicles_Wiki)
+
+Beta wiki:
+[![BETA WIKI](https://img.shields.io/badge/BETA_WIKI-ffffff?style=for-the-badge)](https://Lappland-sgwc.github.io/SCP-FC/)

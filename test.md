@@ -1,34 +1,32 @@
-# Test Page
+<img src="./assets/images/misc/Characters.webp" title="Characters" width="150" height="500"/>
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:alias">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:all-scroll">
 
-<img src="./assets/images/misc/Characters.webp" title="Characters" alt="" width="150" height="500"/>
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:alias">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:all-scroll">
-
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:cell">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:col-resize">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:copy">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:crosshair">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:e-resize">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:ew-resize">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:grab">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:grabbing">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:help">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:no-drop">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:none">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:not-allowed">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:move">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:pointer">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:progress">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:row-resize">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:text">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:vertical-text">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:wait">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:-webkit-grab">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:-webkit-grabbing">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:-webkit-zoom-in">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:-webkit-zoom-out">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:zoom-in">
-<img src="./assets/images/scp/tags/hazardSpace.png" title="" alt="" width="250" style="cursor:zoom-out">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:cell">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:col-resize">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:copy">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:crosshair">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:e-resize">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:ew-resize">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:grab">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:grabbing">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:help">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:no-drop">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:none">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:not-allowed">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:move">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:pointer">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:progress">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:row-resize">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:text">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:vertical-text">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:wait">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:-webkit-grab">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:-webkit-grabbing">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:-webkit-zoom-in">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:-webkit-zoom-out">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:zoom-in">
+<img src="./assets/images/scp/tags/hazardSpace.png" title="" width="250" style="cursor:zoom-out">
 
 <H1>NSEW</H1>
 
@@ -45,23 +43,23 @@
     <tbody>
         <tr>
             <td>-1</td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:nw-resize"/></td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:n-resize"/></td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:ne-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:nw-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:n-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:ne-resize"/></td>
             <td>-1</td>
         </tr>
         <tr>
             <td>0</td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:w-resize"/></td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:move"/></td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:e-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:w-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:move"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:e-resize"/></td>
             <td>0</td>
         </tr>
         <tr>
             <td>1</td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:sw-resize"/></td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:s-resize"/></td>
-            <td><img src="./assets/images/scp/tags/hazardSpace.png" alt="" style="cursor:se-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:sw-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:s-resize"/></td>
+            <td><img src="./assets/images/scp/tags/hazardSpace.png" style="cursor:se-resize"/></td>
             <td>1</td>
         </tr>
         <tr>
